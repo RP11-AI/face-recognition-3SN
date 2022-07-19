@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 ### Introduction
 The project aims to extract as many faces as possible from the informed video/camera. The first module, [detector_module.py](https://github.com/RP11-AI/face-search-by-recognition/blob/main/py/detector_module.py) aims to perform a soft scan to extract as many face detections as possible. This module, in addition to generating a soft scan, gives the user freedom to record the video played, display the bounding boxes and manipulate other inputs for optimization or testing.
 
