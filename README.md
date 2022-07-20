@@ -1,5 +1,6 @@
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
+![](https://github.com/RP11-AI/face-recognition-3SN/blob/main/readme-data/header_1.png?raw=true)
 
 ### Introduction
 The project aims to detect and recognize faces. The final objective is to code the identified faces and export the data for application in other projects, such as searching social networks by facial recognition, searching in databases and applications in Marketing, how to qualify Leads to prospect possible customers who frequent your establishment.
@@ -77,3 +78,5 @@ When the csv file is generated, it will be exported to the parsed directory with
 ![encode.csv](https://github.com/RP11-AI/face-recognition-3SN/blob/main/readme-data/2022-07-19%20120319.png?raw=true)
 
 To use the csv file, we have the `Decode()` function. It will read all the folders in the directory and look for the __encode.csv__ file. Upon reading, a dictionary will be generated containing [numpy.array files](https://numpy.org/doc/stable/reference/generated/numpy.array.html), standard for using the [face-recognition](https://pypi.org/project/face-recognition/) module.
+
+![](https://github.com/RP11-AI/face-recognition-3SN/blob/main/readme-data/baseboard.png?raw=true)
